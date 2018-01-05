@@ -1,0 +1,6 @@
+use_frameworks!
+target 'GSNavigationBarItem_Tests' do
+  pod 'GSNavigationBarItem', :path => '../'
+  
+  
+end

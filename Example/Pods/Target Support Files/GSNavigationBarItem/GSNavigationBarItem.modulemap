@@ -1,0 +1,6 @@
+framework module GSNavigationBarItem {
+  umbrella header "GSNavigationBarItem-umbrella.h"
+
+  export *
+  module * { export * }
+}
